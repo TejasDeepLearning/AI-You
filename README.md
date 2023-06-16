@@ -3,7 +3,7 @@
 ## Overview
 The AI-YOU is an artificial intelligence program that provides personalized responses based on users' choices, interests, and context. Unlike generic chatbot or virtual assistant products, AI-YOU is designed to understand each user's unique needs and preferences, tailoring its responses accordingly. By offering personalized and contextually relevant responses, AI-YOU aims to deliver a more satisfying and engaging user experience.
 
-# Key Features
+## Key Features
 * Personalized Responses: AI-YOU analyzes users' choices, interests, and context to provide customized responses that cater to their specific needs.
 * Contextual Understanding: The program comprehends the user's current situation, allowing it to generate responses that are relevant to the given context.
 * Dynamic Recommendations: AI-YOU can suggest various options based on user preferences, such as recommending different restaurants based on cuisine, budget, and location.
