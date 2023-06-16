@@ -10,7 +10,7 @@ The AI-YOU is an artificial intelligence program that provides personalized resp
 * Step-by-Step Directions: If requested, AI-YOU can provide detailed directions to a recommended restaurant, considering the user's current location and preferred mode of transportation.
 * Enhanced User Connection: The personalized responses create a stronger connection with users over time, fostering increased engagement and loyalty.
 
-## How AI-YOU Works
+## How the AI-You Works
 AI-YOU utilizes advanced technology to deliver personalized responses. The following steps outline the process:
 
 1. Text Extraction: The program takes a PDF document and converts it into plain text, which is then split into manageable chunks.
